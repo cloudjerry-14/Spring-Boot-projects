@@ -1,6 +1,5 @@
 # FirstProjectApplication
 
-This is a starter spring boot app created using [springInitializer][Spring_Initializer_url]
+This is a starter spring boot app created using *** Spring Initializer *** [https://start.spring.io/]
 
-<!-- Others -->
-[Spring_Initializer_url] : https://start.spring.io/
+
